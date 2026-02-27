@@ -8,17 +8,23 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake (light)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Mohamedzahangir
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F3E7D4&color_dots=#C8A882,#D4B896,#E8D5B8,#F3E7D4,#FFF8F0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=#F3E7D4&color_dots=#1a1a1a,#3d2e1e,#6b4c2a,#c8a882,#f3e7d4
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Generate snake (dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Mohamedzahangir
+          outputs: dist/github-contribution-grid-snake-dark.svg?color_snake=#F3E7D4&color_dots=#1a1a1a,#3d2e1e,#6b4c2a,#c8a882,#f3e7d4
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
