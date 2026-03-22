@@ -80,10 +80,8 @@
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mohamedzahangir&theme=algolia&no-frame=true&row=1&margin-w=30&no-bg=true)](https://github.com/Mohamedzahangir)
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzahangir&theme=react-dark&hide_border=true)](https://github.com/Mohamedzahangir)
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mohamedzahangir&theme=flat&no-frame=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzahangir&bg_color=0d1117&color=5BCDEC&line=00FF7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Mohamedzahangir)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzahangir&theme=tokyonight)](https://github.com/Mohamedzahangir)
 
 </div>
