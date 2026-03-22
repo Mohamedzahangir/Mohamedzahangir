@@ -95,7 +95,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛡️ [Jan Suraksha](https://github.com/Mohamedzahangir/jansuraksha) | Mobile-first web app to detect scam links & fraudulent UPI IDs with instant analysis | JavaScript, HTML |
-| 🏋️ [LevelUp](https://github.com/Mohamedzahangir/LevelUp) | Gamified fitness web app focused on discipline, progress, and consistency | Web |
+| 🏋️ [Portfolio](https://github.com/Mohamedzahangir/zahangirPortfolio) | Personal portfolio website showcasing my projects and interactive UI to reflect my engineering approach | HTML, JavaScript , CSS |
 | 🤖 [LinkedIn AI Agent](https://github.com/Mohamedzahangir/linkedin-ai-agent) | Hybrid AI agent for LinkedIn content optimization with deterministic workflow & engagement-driven feedback loop | AI, Python |
 
 ---
