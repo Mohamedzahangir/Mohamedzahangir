@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F3E7D4&center=true&vCenter=true&width=435&lines=Hi+I'm+Mohamed+Zahangir!!;A+AI+%26+DS+Student;Pen+Source+Enthusiast;Soft+Developer+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F3E7D4&center=true&vCenter=true&width=435&lines=Hi+I'm+Mohamed+Zahangir!!;A+AI+%26+DS+Student;Pen+Source+Enthusiast;Soft+Developer+Explorer)](https://git.io/typing-svg)
 
 [![GitHub Profile Stats](https://github-widgetbox.vercel.app/api/profile?username=Mohamedzahangir&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Mohamedzahangir)
 
